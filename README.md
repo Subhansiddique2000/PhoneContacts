@@ -1,6 +1,6 @@
 # PhoneContacts
 This was a projectI started to practise my skills in OOP and ArrayLists
-## Project Requirments
+## Project Requirements
 * Create a program that implements a simple mobile phone with the following capabilities.
 * Able to store, modify, remove and query contact names.
 * You will want to create a separate class for Contacts (name and phone number).
