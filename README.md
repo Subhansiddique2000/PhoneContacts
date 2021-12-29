@@ -1,4 +1,4 @@
-# PhoneContacts
+# Phone Contacts
 This was a projectI started to practise my skills in OOP and ArrayLists
 ## Project Requirements
 * Create a program that implements a simple mobile phone with the following capabilities.
